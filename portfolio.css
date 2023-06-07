@@ -1,0 +1,41 @@
+#c1{
+    position: absolute; 
+    left:600px;
+}
+#c2{
+    position: absolute;
+    color:white;
+    top:100px;
+    left:500px;
+    text-align: center;
+    
+}
+#i3{
+    position: absolute;
+    top:650px;
+    right:250px;
+    text-align: center;
+}
+.i2{
+
+    background-color: rgba(0, 0, 0, 0.247);
+    position: absolute;
+    top:1100px;
+    left:10px;
+    text-align: center;
+    /* display: flex; */
+    /* justify-content:space-between; */
+    /* align-items: center; */
+}
+   
+
+
+body{
+   color: white;
+}
+/* .p1{
+    position: relative;
+} */
+/* #l1{
+    position: sticky;
+} */
